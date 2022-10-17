@@ -1,8 +1,8 @@
 ### Fala ai galera, eu sou o Gabriel 👋
 
 
-- 🔭 Hoje trabalho com desenvolvimento de aplicativos Mobiles e Web
-- 🌱 Estudando Typescript e Dart
+- 🔭 Hoje trabalho com implantação do sistema ERP SANKHYA" https://www.sankhya.com.br/
+- 🌱 Estudando JAVA;
 - 😄 Pronouns: ele/dele
 
 <div>
