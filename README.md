@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com implantação do sistema ERP SANKHYA" https://www.sankhya.com.br/
-- 🌱 Estudando JAVA;
+- 🌱 Estudando React Native;
 - 😄 Pronouns: ele/dele
 
 <div>
