@@ -1,8 +1,6 @@
 ### Fala ai galera, eu sou o Gabriel 👋
 
 
-- 🔭 Hoje trabalho com implantação do sistema ERP SANKHYA" https://www.sankhya.com.br/
-- 🌱 Estudando React Native;
 - 😄 Pronouns: ele/dele
 
 <div>
